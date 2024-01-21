@@ -4,8 +4,8 @@ Olá! Eu sou Vitor_ue, e este é o meu espaço no GitHub onde compartilho divers
 
 ## 🚀 Projetos;
 
-### [Projeto de Modelagem Biomatemática](link_para_o_projeto)
-Breve descrição do projeto e seu propósito.
+### [Modelagem Biomatemática da Dengue em Campinas-SP](https://github.com/Leprechas/SIR-Model-with-vital-dynamics-applied-on-dengue-epidemiology-in-Campinas-Brazil)
+This is a repository involving the study of the dengue disease in Campinas - Brazil, applied on the SIR epidemiologic model with vital dynamics, for the Biomathemathics subject on the Science, Technology and Inovation course, offered by Ilum - School of Science.
 
 ### [Projeto de Cinética Química](link_para_o_projeto)
 Uma breve explicação sobre a cinética química e os objetivos deste projeto específico.
