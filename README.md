@@ -19,7 +19,7 @@ Como forma de desenvolvimento da disciplina de Aprendizado de Máquina do segund
 
 ## 📚 Sobre Mim
 
-Hoje pessoas, eu sou um estudante multidisciplinar (Biologia, Física, Química, Matemática e Ciência da Computação) com formação acadêmica em andamento em Bacharel em Ciência e Tecnologia pela Ilum Escola de Ciências(2022-Atual), e interrompi uma graduação em Ciências Biológicas na Universidade do Estado de Mato Grosso(2021-2022) (Para entrar na Ilum). 
+Oi pessoas, eu sou um estudante multidisciplinar (Biologia, Física, Química, Matemática e Ciência da Computação) com formação acadêmica em andamento em Bacharel em Ciência e Tecnologia pela Ilum Escola de Ciências(2022-Atual), e interrompi uma graduação em Ciências Biológicas na Universidade do Estado de Mato Grosso(2021-2022) (Para entrar na Ilum). 
 
 Eu já fiz uma penca de coisa aleatória, mas gosto de falar que já fui voluntário em projetos de produção de mudas e reflorestamento (2021) e também foi estagiário voluntário no Laboratório de Macromoléculas Biológicas - LMB do Laboratório Nacional de Biociências - LNBio, do Centro Nacional de Pesquisa em Energia e Materiais (2023).
 
