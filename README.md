@@ -27,7 +27,7 @@ Sobre programação? Bom eu faço alguns projetos em python que funcionam às ve
 
 ## 📫 Entre em Contato
 
-Tu pode entrar em contato comigo, vou deixar meu [linkedin](https://www.linkedin.com/in/vitor-barelli-618889170/) e meu email: vitorbarelli@gmail.com
+Tu pode entrar em contato comigo, vou deixar meu [linkedin](https://www.linkedin.com/in/vitor-barelli-618889170/), [Currículo Lattes](https://lattes.cnpq.br/7941430598244543) e meu email: vitorbarelli@gmail.com
 
 Sinta-se à vontade para explorar os projetos e contribuir! Feedbacks e colaborações são sempre bem-vindas. 😊
 
