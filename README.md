@@ -1,4 +1,4 @@
-# Bem-vindo ao Repositório de Vitor_ue, ou melhor, Leprechas 🍀👋
+# Bem-vindo ao Repositório de Vitor_ue, ou melhor, Leprechas 🍀
 
 Olá! Eu sou Vitor_ue, e este é o meu espaço no GitHub onde compartilho diversos projetos relacionados a modelagem biomatemática, cinética-química, redes neurais, algoritmos genéticos, aprendizado de máquina e até mesmo alguns manuais.
 
