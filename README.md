@@ -21,7 +21,10 @@ Como forma de desenvolvimento da disciplina de Aprendizado de Máquina do segund
 
 Oi pessoas, eu sou um estudante multidisciplinar (Biologia, Física, Química, Matemática e Ciência da Computação) com formação acadêmica em andamento em Bacharel em Ciência e Tecnologia pela Ilum Escola de Ciências(2022-Atual), e interrompi uma graduação em Ciências Biológicas na Universidade do Estado de Mato Grosso(2021-2022) (Para entrar na Ilum). 
 
-Eu já fiz uma penca de coisa aleatória, mas gosto de falar que já fui voluntário em projetos de produção de mudas e reflorestamento (2021) e também foi estagiário voluntário no Laboratório de Macromoléculas Biológicas - LMB do Laboratório Nacional de Biociências - LNBio, do Centro Nacional de Pesquisa em Energia e Materiais (2023).
+Eu já fiz uma penca de coisa aleatória, mas gosto de falar que já participei/fiz/fui;
+1. Projetos: Cac+Verde e Florestar: Projetos de produção de mudas e reflorestamento (2022)
+2. Estagiário voluntário do Laboratório de Macromoléculas Biológicas - LMB do Laboratório Nacional de Biociências - LNBio, do Centro Nacional de Pesquisa em Energia e Materiais: "Investigação de proteínas associadas aos transtornos do espectro autista e aos transtornos do neurodesenvolvimento" (2023).
+3. Bolsista PAPL EVC FAPESP no Laboratório de Microbiologia do Instituto de Biologia da UFRJ: "Análise da diversidade microbiana em vieiras cultivadas na Baía de Ilha Grande, Rio de Janeiro." (2024)
 
 Sobre programação? Bom eu faço alguns projetos em python que funcionam às vezes e na maioria do tempo eu não sei o motivo ahahahaha
 
