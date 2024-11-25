@@ -4,6 +4,9 @@ Olá! Eu sou o Vitor, e este é o meu espaço no GitHub onde compartilho diverso
 
 ## 🚀 Alguns projetos;
 
+### [TCC: Estudo da epidemiologia matemática da tuberculose no Brasil](https://github.com/Leprechas/TCC_Tuberculose/tree/main)
+Trabalho de Conclusão de Curso na áreas de epidemiologia matemática, epidemiologia social, história e biologia na Ilum - School of Science - CNPEM.
+
 ### [Modelagem Biomatemática da Dengue em Campinas-SP](https://github.com/Leprechas/SIR-Model-with-vital-dynamics-applied-on-dengue-epidemiology-in-Campinas-Brazil)
 This is a repository involving the study of the dengue disease in Campinas - Brazil, applied on the SIR epidemiologic model with vital dynamics, for the Biomathemathics subject on the Science, Technology and Inovation course, offered by Ilum - School of Science.
 
