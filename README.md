@@ -38,3 +38,45 @@ Tu pode entrar em contato comigo, vou deixar meu [linkedin](https://www.linkedin
 Sinta-se à vontade para explorar os projetos e contribuir! Feedbacks e colaborações são sempre bem-vindas. 😊
 
 Até logo 👋
+
+INGLÊS:
+
+# Welcome to my git, or rather Leprechas' git 🍀
+
+Hello! I'm Vitor, and this is my space on GitHub where I share various projects and manuals.
+
+## 🚀 Some projects;
+
+### [Undergraduate Thesis (TCC): Study of the Mathematical Epidemiology of Tuberculosis in Brazil](https://github.com/Leprechas/TCC_Tuberculose/tree/main)
+Undergraduate thesis in the fields of mathematical epidemiology, social epidemiology, history, and biology at Ilum - School of Science - CNPEM.
+
+### [Biomathematical Modeling of Dengue in Campinas-SP](https://github.com/Leprechas/SIR-Model-with-vital-dynamics-applied-on-dengue-epidemiology-in-Campinas-Brazil)
+This is a repository involving the study of dengue disease in Campinas - Brazil, applied on the SIR epidemiologic model with vital dynamics, for the Biomathemathics subject on the Science, Technology and Innovation course, offered by Ilum - School of Science.
+
+### [Simulation of Water Hydrolysis: A Chemical Kinetics Study](https://github.com/Leprechas/Cinetica-quimica?tab=readme-ov-file#simula%C3%A7%C3%A3o-da-hidr%C3%B3lise-da-%C3%A1gua-um-estudo-de-cin%C3%A9tica-qu%C3%ADmica)
+This work is a study of the chemical kinetics of a chosen reaction that must undergo 3 major challenges (ranging from the description of particle motion to activation energy), aimed at improving programming skills and conducting a literature review and studies on the chosen topic and concepts of chemical kinetics.
+
+### [Nutrella: The Genetic Algorithm that designs your diet!](https://github.com/Leprechas/Trabalho-RNAG-Nutrella?tab=readme-ov-file#-nutrella-o-algoritmo-gen%C3%A9tico-que-faz-a-sua-dieta-)
+Nutrella is a genetic algorithm based on the knapsack problem with constraints. Our algorithm uses a Brazilian food database to create an optimized diet for your well-being. The algorithm focuses on optimization, aiming to maximize consumer nutrition by providing the most nutritious foods, always respecting the caloric limit that they should consume.
+
+### [Machine Learning: Analysis of Gene Expression in the Dermis](https://github.com/Leprechas/aprendizado-de-maquina#aprendizado-de-m%C3%A1quina)
+As part of the development for the Machine Learning course in the second semester at Ilum School of Science, this project aims to identify the age and sex of a given individual by analyzing a dataset related to gene expression in sun-unexposed skin, sourced from the "Portal GTEX" biobank.
+
+## 📚 About Me
+
+Hello everyone, I am a multidisciplinary student (Biology, Physics, Chemistry, Mathematics, and Computer Science) currently pursuing a Bachelor's degree in Science and Technology at Ilum School of Science (2022-Present). I previously started a degree in Biological Sciences at the State University of Mato Grosso (2021-2022) but interrupted it to join Ilum.
+
+I've done a bunch of random stuff, but I like to say I've participated in/done/been involved with:
+1. Projects: Cac+Verde and Florestar: Seedling production and reforestation projects (2022)
+2. Volunteer intern at the Biological Macromolecules Laboratory (LMB) of the National Biosciences Laboratory (LNBio), at the National Center for Research in Energy and Materials (CNPEM): "Investigation of proteins associated with autism spectrum disorders and neurodevelopment disorders" (2023).
+3. PAPL EVC FAPESP Scholar at the Microbiology Laboratory of the Institute of Biology at UFRJ: "Analysis of microbial diversity in scallops cultivated in the Baía de Ilha Grande, Rio de Janeiro." (2024)
+
+About programming? Well, I do some Python projects that sometimes work, and most of the time I have no idea why, hahaha.
+
+## 📫 Get in Touch
+
+You can get in touch with me; I'll leave my [LinkedIn](https://www.linkedin.com/in/vitor-barelli-618889170/), [Lattes CV](https://lattes.cnpq.br/7941430598244543) and my email: vitorbarelli@gmail.com
+
+Feel free to explore the projects and contribute! Feedback and collaboration are always welcome. 😊
+
+See you soon 👋
