@@ -12,7 +12,7 @@ This is a repository involving the study of the dengue disease in Campinas - Bra
 
 ## 📚 Sobre Mim
 
-Oi pessoas, eu sou um estudante multidisciplinar (Biologia, Física, Química, Matemática e Ciência da Computação) com formação acadêmica em Bacharel em Ciência e Tecnologia pela Ilum Escola de Ciências(2022-2025), e Mestrando em Biometria (BioEstatística) pela UNESP - Botucatu (2026-Atual).
+Oi pessoas, eu sou um estudante multidisciplinar (Biologia, Física, Química, Matemática e Ciência da Computação) com formação acadêmica em Bacharel em Ciência e Tecnologia pela Ilum Escola de Ciências(2022-2025), e Mestrando em Biometria pela UNESP - Botucatu (2026-Atual).
 
 Sobre programação? Bom eu faço alguns projetos em python que funcionam às vezes e na maioria do tempo eu não sei o motivo ahahahaha
 
@@ -40,7 +40,7 @@ This repository involves the study of dengue in Campinas, Brazil, using the SIR 
 
 ## 📚 About Me
 
-Hi everyone, I am a multidisciplinary student (Biology, Physics, Chemistry, Mathematics, and Computer Science) with an academic background as a Bachelor in Science and Technology from Ilum School of Science (2022–2025), and currently a Master's student in Biometrics (Biostatistics) at UNESP – Botucatu (2026–present).
+Hi everyone, I am a multidisciplinary student (Biology, Physics, Chemistry, Mathematics, and Computer Science) with an academic background as a Bachelor in Science and Technology from Ilum School of Science (2022–2025), and currently a Master's student in Biometrics at UNESP – Botucatu (2026–present).
 
 As for programming, well, I make a few Python projects that sometimes work, and most of the time I have no idea why hahaha.
 
