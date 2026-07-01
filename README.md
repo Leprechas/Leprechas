@@ -13,7 +13,7 @@ Neste trabalho, desenvolvemos um framework matemÁtico que acopla dois modelos c
 ### [Epibrasil-painel](https://github.com/Leprechas/epibrasil-painel)
 O EpiBrasil é um painel epidemiológico estático para visualização exploratória de doenças e agravos notificados no Brasil, com dados agregados por município, Unidade Federativa, ano e doença.
 
-### [Estudo da dinâmica populacional de crescimento bacteriano em laboratório através de equações diferenciais ordinárias e intervalares](https://github.com/Leprechas/epibrasil-painel](https://github.com/Leprechas/Crescimento_Bacteriano)
+### [Estudo da dinâmica populacional de crescimento bacteriano em laboratório através de equações diferenciais ordinárias e intervalares](https://github.com/Leprechas/Crescimento_Bacteriano)
 Este trabalho se dedicou a estudar a dinâmica populacional do crescimento de \textit{Escherichia coli} em laboratório utilizando as Equações Diferenciais Ordinárias (EDOs) e Equações Diferenciais Intervalares (EDIs) dos modelos de Malthus e Verhulst, resolvidos pelos métodos analíticos e numéricos de Euler e Runge-Kutta de ordem quarta, com o objetivo de avaliar a melhor estratégia para modelar essa população.
 
 ## 📚 Sobre Mim
